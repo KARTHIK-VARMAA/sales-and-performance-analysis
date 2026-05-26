@@ -116,23 +116,6 @@ Designed interactive multi-page Power BI dashboards to visualize:
 - Analytical Thinking
 - Business Storytelling
 
----
-
-# 📸 Dashboard Preview
-
-## Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
-
-## Product Analysis
-![Product Analysis](screenshots/product_analysis.png)
-
-## Customer Analysis
-![Customer Analysis](screenshots/customer_analysis.png)
-
-## Regional Insights
-![Regional Insights](screenshots/regional_insights.png)
-
----
 
 # 📁 Repository Structure
 
